@@ -91,4 +91,4 @@ Keep a backup of `tutoring.db` to preserve your data when moving or updating the
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before distributing the project under an open-source license.
+GPL-3.0 license
