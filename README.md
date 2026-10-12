@@ -34,7 +34,6 @@ Tutor++/
 ├── dialogs.py           # Dialog windows
 ├── translations.py      # Polish and English translations
 ├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
 └── tutoring.db          # Local application database
 ```
 
